@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106555061382",
+    "project_id": "ez-r-cc56f",
+    "storage_bucket": "ez-r-cc56f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106555061382:android:b88df87b80b3185ed34d07",
+        "android_client_info": {
+          "package_name": "the305labs.ez_r"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Nta9PAzcC1d4t5tD11cqxDxIgGWNbU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
